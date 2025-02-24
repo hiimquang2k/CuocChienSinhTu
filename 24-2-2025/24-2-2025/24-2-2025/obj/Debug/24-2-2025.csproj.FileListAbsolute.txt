@@ -1,0 +1,7 @@
+D:\Quang\24-2-2025\24-2-2025\obj\Debug\24-2-2025.csproj.AssemblyReference.cache
+D:\Quang\24-2-2025\24-2-2025\obj\Debug\24-2-2025.csproj.CoreCompileInputs.cache
+D:\Quang\24-2-2025\24-2-2025\bin\Debug\24-2-2025.exe.config
+D:\Quang\24-2-2025\24-2-2025\bin\Debug\24-2-2025.exe
+D:\Quang\24-2-2025\24-2-2025\bin\Debug\24-2-2025.pdb
+D:\Quang\24-2-2025\24-2-2025\obj\Debug\24-2-2025.exe
+D:\Quang\24-2-2025\24-2-2025\obj\Debug\24-2-2025.pdb
